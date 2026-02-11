@@ -1,4 +1,4 @@
-```markdown
+
 # IIT Google Scholar Scraper — How to Run
 
 This repo contains:
@@ -164,4 +164,4 @@ I **was not able to fully finish scraping all departments yet** because Google S
 * What remains is improving how we handle Scholar’s anti-bot protection so the script can run reliably at scale.
 
 ```
-```
+
